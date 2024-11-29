@@ -25,11 +25,11 @@ This project analyzes the historical stock prices and revenue trends of **Tesla*
 
 ### Tesla Stock Price and Revenue Trends
 
-![Tesla Plot](tesla_plot.png)
+![Tesla Plot](plots/tesla_plot.png)
 
 ### GameStop Stock Price and Revenue Trends
 
-![GameStop Plot](gamestop_plot.png)
+![GameStop Plot](plots/gamestop_plot.png)
 
 ## Tools and Libraries
 
