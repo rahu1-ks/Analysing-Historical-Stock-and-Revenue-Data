@@ -36,3 +36,9 @@ This project analyzes the historical stock prices and revenue trends of **Tesla*
 - **yfinance**: For retrieving historical stock price data.
 - **BeautifulSoup**: For web scraping revenue data.
 - **Plotly**: For creating interactive visualizations.
+
+## Key Takeaways
+
+- Tesla's stock price and revenue have shown consistent growth over the years, peaking significantly in recent periods.
+- GameStop experienced a unique surge in stock price in early 2021, often referred to as the "GameStop short squeeze," while its revenue trends remained relatively stable.
+- Both datasets provide a fascinating insight into how external factors influence stock prices and revenue.
